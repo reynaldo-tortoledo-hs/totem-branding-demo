@@ -1,0 +1,19 @@
+{
+  "name": "totem-branding",
+  "version": "0.0.0",
+  "authors": [
+    "Reynaldo Tortoledo <reynaldo.tortoledo@hootsuite.com>"
+  ],
+  "description": "Sample uses of totem branding module for angularjs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.3"
+  }
+}
